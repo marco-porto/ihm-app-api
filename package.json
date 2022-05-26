@@ -1,0 +1,23 @@
+{
+  "name": "ihm-app-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch endpoints.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marco-porto/ihm-app-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marco-porto/ihm-app-api/issues"
+  },
+  "homepage": "https://github.com/marco-porto/ihm-app-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
