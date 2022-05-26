@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch endpoints.js"
+    "start": "node endpoints.js"
   },
   "repository": {
     "type": "git",
